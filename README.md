@@ -2,5 +2,6 @@
 
 Mini Réseau social (React/MongoDB/Express)
 
--Validator
-- MongoDB Compass
+Validator
+MongoDB Compass
+JWT
